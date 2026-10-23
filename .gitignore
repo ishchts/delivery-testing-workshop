@@ -1,0 +1,5 @@
+**/node_modules/
+**/coverage/
+**/.vitest/
+**/.student-check-*/
+**/.mutation-check-*/

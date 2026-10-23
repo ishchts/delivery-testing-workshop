@@ -1,0 +1,20 @@
+{
+  "name": "delivery-workshop-student",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Практикум: поиск недостающих тестовых сценариев",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "3.2.7"
+  },
+  "overrides": {
+    "vite": "6.4.5"
+  }
+}
